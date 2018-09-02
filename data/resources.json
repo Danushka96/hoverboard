@@ -1,8 +1,8 @@
 {
   "title": "GDG DevFest Season 2018",
-  "description": "For Developers by Developers",
+  "description": "by developers | for developers",
   "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev",
   "dates": "November 10, 2018",
   "partnershipProposition": "https://drive.google.com/file/d/1SB76wt9GqQ273dpT0lxK_532j_7qTB2H/view?usp=sharing",
   "share": "Share",
@@ -17,7 +17,7 @@
   "viewHighlights": "View Highlights",
   "offlineMessage": "You can still work offline.",
   "cachingComplete": "Caching complete! Future visits will work offline.",
-  "newVersionAvailable": "A new version of this app is available.",
+  "newVersionAvailable": "New details are available in this page.!",
   "refresh": "Refresh",
   "position": "Position",
   "country": "Country",
@@ -53,7 +53,7 @@
       "title": "Explore Past DevFests",
       "links": [
         {
-          "name": "DFSL 2017",
+          "name": "DevFest LK 2017",
           "url": "https://devfest-17.firebaseapp.com",
           "newTab": true
         }
@@ -86,7 +86,7 @@
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Sri Lanka brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases."
+        "description": "GDG DevFest Sri Lanka brings together the world class experts in Android, Web and Cloud technologies to Sri Lanka and helps sharing of technical know-how between developers."
         
       },
       "howItWas": {
@@ -116,7 +116,7 @@
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference ,codelabs, coffee breaks and after party. Accommodation is NOT included in the ticket price.",
+    "ticketsDetails": "Tickets grant access to all conference, codelabs, coffee breaks and after party.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
@@ -180,7 +180,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Sri Lanka](http://gdgsrilanka.org/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Sri Lanka audience to boost development of IT."
+    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Sri Lanka](http://gdgsrilanka.org/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to make developers better by organizing spaces to connect the best industry experts with a tech savy audience to boost development of IT."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
